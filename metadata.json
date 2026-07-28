@@ -1,0 +1,6 @@
+{
+  "name": "Takwira TN",
+  "description": "Réservation de terrains de football en Tunisie avec paiement en ligne (Konnect, D17, Sobflous, Carte), SMS/Push, espace gérant, stats joueurs, chat communautaire et sauvegarde cloud.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
